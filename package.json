@@ -1,0 +1,25 @@
+{
+  "name": "tea-comnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReVelaO/tea-comnet.git"
+  },
+  "keywords": [
+    "tea",
+    "testnet",
+    "community"
+  ],
+  "author": "electroFarmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReVelaO/tea-comnet/issues"
+  },
+  "homepage": "https://github.com/ReVelaO/tea-comnet#readme",
+  "source": "https://github.com/ReVelaO/tea-comnet.git"
+}
